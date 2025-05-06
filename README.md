@@ -15,9 +15,15 @@ Automated, reproducible pipeline for quantifying nuclear morphology and fluoresc
 ## 1️⃣ Quick Start
 
 ```bash
-git clone https://github.com/your-handle/mcherry-h2b-segmentation.git
-cd mcherry-h2b-segmentation
-python3 -m venv venv && source venv/bin/activate
+# 1. Clone the repository
+git clone https://github.com/JHYUIHGY/Otegui_segmentation.git
+cd Otegui_segmentation
+
+# 2. Set up a virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# 3. Install dependencies
 pip install -r requirements.txt
 ```
 
