@@ -1,7 +1,8 @@
 # mCherry‑H2B Nuclear Segmentation Pipeline
 
 Automated, reproducible pipeline for quantifying nuclear morphology and fluorescence in *Arabidopsis* root tips.
-The confocal image set is not uploaded due to file size, google drive link to the folder used in this project:
+The confocal image set is not uploaded due to file size.
+Google drive link to the folder used in this project:
 https://drive.google.com/drive/folders/1lyRpDqsC8ukQ7ZqJe-EhZeCihV2n9mO5?usp=drive_link
 
 **Highlights**
